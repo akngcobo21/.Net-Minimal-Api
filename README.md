@@ -1,2 +1,2 @@
 # .Net-Minimal-Api
-![Minimal API UML Diagram](minimalApi.png)
+![Minimal API UML Diagram](minimalApi.drawio.png)
